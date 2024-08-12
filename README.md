@@ -1,6 +1,4 @@
-# C++ Project
-
-This is a simple C++ project with a scalable and industry-standard setup.
+# C++ Starter
 
 ## Structure
 
@@ -37,5 +35,4 @@ This is a simple C++ project with a scalable and industry-standard setup.
 ## Dependencies
 
 - `g++` for compiling the C++ code.
-- `clang-format` for linting the code.
 
